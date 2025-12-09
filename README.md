@@ -19,13 +19,23 @@ Conteúdos a serem estudados:
   - [ ] Operações Lógicas
   - [ ] Funções
   - [ ] Estruturas para construção de algoritmos
-  - [ ] Dados
   - [ ] Modularização
 - [ ] [03 - SQL e Bancos Relacionais](/03%20-%20SQL%20e%20Bancos%20Relacionais/)
+  - [ ] Operações de CRUD
+  - [ ] Relacionamentos
+  - [ ] ACID
+  - [ ] Transações
 - [ ] [04 - Versionamento de Código](/04%20-%20Versionamento%20de%20Código/)
+  - [ ] Bases do git
+  - [ ] Repositórios remotos
 - [ ] [05 - Redes e Internet](/05%20-%20Redes%20e%20Internet/)
   - [ ] Fundamentos da Web
   - [ ] Segurança
   - [ ] API e Integrações
-- [ ] [06 - MVC](/06%20-%20MVC/)
+- [ ] [06 - MVC](/06%20-%20MVC/) (?)
 - [ ] [07 - Docker](/07%20-%20Docker/)
+  - [ ] Conceitos de conteinerização
+  - [ ] Comandos básicos
+  - [ ] Imagens/Volumes/Network
+  - [ ] Dockfile
+  - [ ] Docker Compose
